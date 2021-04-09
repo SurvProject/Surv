@@ -164,6 +164,9 @@ a {
     margin-left: 0rem;
 }
 
+.margin-rightcontent {
+    margin-left: 2rem;
+}
 
 
 /* MEDIA QUERY EXAMPLE - MOBILE (XS) */
@@ -202,6 +205,10 @@ a {
         margin-left: 9rem;
     }
 
+    .margin-rightcontent {
+        margin-left: 2rem;
+    }
+
 }
 
 /* styles for medium devices */
@@ -232,6 +239,10 @@ a {
         line-height: 1;
         margin-top: 1rem;
         text-align: left;
+    }
+
+    .margin-rightcontent {
+        margin-left: 5rem;
     }
 
 }
@@ -267,6 +278,10 @@ a {
     }
 
     .margin-leftcollaborative {
+        margin-left: 8rem;
+    }
+
+    .margin-rightcontent {
         margin-left: 8rem;
     }
 }
@@ -441,6 +456,8 @@ a {
 .margin-left {
     margin-left: 8rem;
 }
+
+
 
 
 
