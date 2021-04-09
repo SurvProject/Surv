@@ -55,7 +55,7 @@ h4,
     font-size: 1rem;
     letter-spacing: 1px;
     color: var(--dark);
-    text-align: center;
+    xtext-align: center;
 }
 
 .display-1,
